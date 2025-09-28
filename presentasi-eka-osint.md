@@ -1,25 +1,61 @@
-Berdasarkan penelitian yang ada, teknik Open Source Intelligence (OSINT) telah terbukti menjadi alat yang sangat efektif untuk menginvestigasi pelaksanaan dan kasus dalam pengadaan barang/jasa pemerintah di Indonesia. Pendekatannya bersifat sistematis dengan memanfaatkan data terbuka yang tersedia untuk publik seringkali digunakan oleh jurnalis investigasi dan detektif swasta.
+# **OSINT untuk Pengawasan Pengadaan**
 
-**Pendahuluan - OSINT untuk Pengawasan Pengadaan**
+ Saat ini teknik Open Source Intelligence (OSINT) telah terbukti menjadi alat yang sangat efektif untuk menginvestigasi pelaksanaan dan kasus dalam pengadaan barang/jasa pemerintah di Indonesia. Pendekatannya bersifat sistematis dengan memanfaatkan data terbuka yang tersedia untuk publik seringkali digunakan oleh jurnalis investigasi dan detektif swasta.
 
-* **Definisi OSINT Singkat:**
-* **Mengapa Relevan?**
-  * **Transparansi & Akuntabilitas:** Memperkuat pengawasan sosial (social auditing).
-  * **Pencegahan Korupsi:** Mengidentifikasi indikasi markup, kolusi, dan conflict of interest sejak dini.
-  * **Demokratisasi Pengawasan:** Setiap orang bisa menjadi pengawas mandiri dengan akses internet.
+### **Definisi OSINT Singkat**
 
-### 🛠️ Langkah-Langkah Praktis Investigasi OSINT untuk Pengadaan
+   **OSINT (Open Source Intelligence)** adalah proses mengumpulkan dan menganalisis informasi dari sumber terbuka yang legal dan tersedia untuk publik, seperti media online, dokumen pemerintah, laporan akademik, media sosial, dan data publik lainnya, untuk tujuan intelijen atau investigasi.
+   Dulu dikenal eksklusif di dunia CyberSecurity tapi sekarang diperuntukkan untuk kegiatan jurnalis.
 
-Indonesia Corruption Watch (ICW) telah mengembangkan metodologi enam langkah yang dapat dijadikan panduan oleh masyarakat sipil, jurnalis, dan aparat pengawas internal pemerintah (APIP) .
+### **Mengapa Relevan?**
+
+* **Transparansi & Akuntabilitas:** Memperkuat pengawasan sosial (social auditing).
+* **Pencegahan Korupsi:** Mengidentifikasi indikasi markup, kolusi, dan conflict of interest sejak dini.
+* **Demokratisasi Pengawasan:** Setiap orang bisa menjadi pengawas mandiri dengan akses internet.
+
+### **Syarat dan Kemampuan yang dibutuhkan**
+
+#### 🧠 **Kemampuan Utama**
+
+**Kemampuan riset dan analisis**
+Mampu menelusuri data, dokumen, dan sumber informasi secara mendalam, termasuk wawancara dan observasi lapangan.
+
+- Kemampuan menulis dan menyusun narasi
+  Mampu menyampaikan temuan secara sistematis, menarik, dan mudah dipahami, termasuk menyederhanakan isu kompleks.
+- Kemampuan komunikasi interpersonal
+  Penting untuk membangun kepercayaan dengan narasumber, menggali informasi sensitif, dan menjaga etika wawancara.
+- Pemahaman hukum dan etika jurnalistik
+  Mengetahui batasan hukum, hak privasi, dan prinsip-prinsip etika agar tidak melanggar hak individu atau institusi.
+
+#### 🔍 Karakteristik Investigatif
+
+- Rasa ingin tahu yang tinggi dan skeptisisme sehat
+  Tidak mudah puas dengan jawaban permukaan; selalu bertanya “mengapa”, “siapa lagi yang terlibat”, dan “apa dampaknya”.
+- Ketekunan dan kesabaran
+  Investigasi bisa memakan waktu lama dan menghadapi banyak hambatan. Jurnalis harus tahan banting dan tidak mudah menyerah.
+- Keberanian dan integritas
+  Siap menghadapi risiko, tekanan, atau intimidasi, terutama saat mengungkap skandal atau pelanggaran besar.
+
+#### 🛠️ Teknik dan Metodologi
+
+- Menguasai teknik penelusuran fakta
+  Termasuk rekonstruksi peristiwa, analisis pola, dan pemetaan aktor yang terlibat dalam isu.
+- Kemampuan digital dan teknologi
+  Mampu menggunakan alat bantu digital untuk riset, verifikasi data, dan keamanan informasi.
+- Kreativitas dalam memilih angle liputan
+  Liputan investigasi bukan hanya soal data, tapi juga bagaimana menyajikan “story behind the news” secara menarik dan berdampak.
+- Teknik dan aplikasi yang biasa saya gunakan
+
+## 🛠️ Langkah-Langkah Praktis Investigasi OSINT untuk Pengadaan
 
 1. **Temukan Proyek Mencurigakan:**
    Seorang investigator perlu peka terhadap pemberitaan yang sedang viral atau identifikasi masalah dari pengumuman pengadaan pemerintah.
-   situs PBJ Pemerintah (**spse.inaproc**) dan e-commerce Pemerintah (**katalog.inaproc**)
+   situs PBJ Pemerintah (**spse.inaproc**), e-commerce Pemerintah (**katalog.inaproc**) dan/atau pengadaan di BUMN,
 2. **Identifikasi Pengadaan Pemerintah yang berisiko terjadi fraud**:
    Langkah pertama adalah memilih pengadaan yang akan dipantau,dari sumber informasi primer terbuka
    [(cek **Github saya**)](github%20OSINT%20source%204%20national%20eprocurement.md)
 
-   Anda dapat menggunakan platform seperti **opentender.net** yang memberikan peringkat risiko (tinggi, menengah, rendah) pada setiap prosedur pengadaan khusus pelelangan berdasarkan metode analisis PFA(*Potential Fraud Analysis*) dari Indonesia Corruption Watch (ICW). Namun dikarenakan basis data **opentender.net** tidak update (data terbaru biasanya setahun sebelumnya) sehingga perlu mengetahui cara mengidentifikasi secara mandiri.
+   Anda dapat menggunakan platform seperti **opentender.net** yang memberikan peringkat risiko (tinggi, menengah, rendah) pada setiap prosedur pengadaan berdasarkan metode analisis PFA(*Potential Fraud Analysis*) dari Indonesia Corruption Watch (ICW). Namun saat basis data **opentender.net** tidak update (data terbaru biasanya setahun sebelumnya dan hanya khusus tender saja) sehingga perlu mengetahui cara mengidentifikasi pengadaan bermasalah secara mandiri.
    Berikut 7 redflags pengadaan yang perlu dicermati:([metode PFA](https://www.opentender.net/method))
    a. Durasi antara tanggal pengumuman dengan penetapan pemenang
    b. Perbandingan Nilai Kontrak dan HPS
@@ -34,43 +70,25 @@ Indonesia Corruption Watch (ICW) telah mengembangkan metodologi enam langkah yan
    j. Pengadaan yang ber-episode (cirinya judul pengadaan diberikan kata tahap dari apa)
 3. **Tinjau Proses Perencanaan**:
    Pastikan proyek yang akan dilaksanakan sudah tercantum dalam rencana umum pengadaan (**SIRUP** dan **AMEL Perencanaan**). Proyek yang tidak ada dalam perencanaan keduanya atau perbedaan keduanya dapat mengindikasikan permasalahan.
-4. **Identifikasi Pengadaan Serupa**: Cari tahu apakah ada pengadaan yang serupa di lokasi yang sama dalam kurun waktu tertentu. Pengadaan berulang untuk pekerjaan yang sama (misalnya, perbaikan jalan yang berulang dengan spesifikasi berbeda) dapat menjadi tanda pemborosan atau kecurangan.
-5. **Tinjau Rekam Jejak Perusahaan**: Periksa latar belakang perusahaan pemenang tender. Anda dapat:
+4. **Identifikasi Pengadaan Serupa**: Cari tahu apakah ada pengadaan yang serupa di lokasi yang sama dalam kurun waktu tertentu. Pengadaan berulang untuk pekerjaan yang sama (misalnya, perbaikan jalan yang berulang dengan spesifikasi berbeda dan/atau perbedaan harga yang tidak wajar) dapat menjadi tanda pemborosan atau kecurangan.
+5. **Tinjau Rekam Jejak Perusahaan**: Periksa latar belakang perusahaan pemenang tender. Anda perlu melakukan:
 
-   - Memeriksa **track record** perusahaan dalam mengerjakan proyek pemerintah melalui opentender.net .
-   - Mengecek dokumen legal perusahaan seperti akta pendirian dan kepemilikan saham melalui website **Direktorat Jenderal Administrasi Hukum Umum (AHU) Kementerian Hukum dan HAM** untuk mendeteksi kemungkinan conflict of interest atau perusahaan shell .
+   - **Identifikasi Perusahaan Pemenang:** Dapatkan NAma Perusahaan dan NPWP-nya dari SPSE.
+   - Memeriksa **track record** perusahaan dalam mengerjakan proyek pemerintah melalui opentender.net.
+   - **Putusan Pengadilan**: Mengecek melalui website **Mahkamah Agung** atau **Komisi Pengawas Persaiangan Usaha (KPPU)** apakah perusahaan pernah terlibat dalam perkara pidana atau perdata.
+   - Mengecek dokumen legal perusahaan seperti akta pendirian dan kepemilikan saham melalui website **Direktorat Jenderal Administrasi Hukum Umum (AHU) Kementerian Hukum dan HAM** untuk mendeteksi kemungkinan conflict of interest atau perusahaan shell (cangkang) .
    - Memverifikasi kualifikasi perusahaan di sistem **SIKaP LKPP** dan memeriksa apakah perusahaan pernah masuk daftar hitam (**blacklist**) di **inaproc.lkpp.go.id** .
    - Telusuri di OSS:** Cek latar belakang perusahaan (kapan berdiri, modal, **pemegang saham, dan pengurus/direksi**).
-   - .  **Identifikasi Perusahaan Pemenang:** Dapatkan nama dan NPWP-nya dari LPSE.
+6. **Tinjau Realisasi Pelaksanaan Proyek**: Untuk proyek konstruksi, apabila memungkinkan Anda perlu memverifikasi realisasi di lapangan.
+   Terkadang pemeriksaan kemajuan fisik proyek bisa diketahui dari  **Google-Earth/ Google-Maps/Street View**: Memeriksa kemajuan fisik proyek atau pemberitaan di media online, bahkan terdapat kemungkinan juga video/foto yang diupload di platform social media, anda perlu mencermati tanggal uploadnya
+7. **Analisis potensi kecurangan**
 
-**Slide 4: Peta Sumber Data Kunci Indonesia (The "Gold Mine")** >> buat di github
-
-* **Kategorikan sumber-sumber primer yang WAJIB diketahui:**
-  * **Sumber Resmi Pengadaan:**
-    * **LPSE (Layanan Pengadaan Secara Elektronik):** `lpse.kemenkeu.go.id` - Sumber utama informasi lelang (pengumuman, hasil, HPS, dll).
-    * **SIRUP (Sistem Rencana Umum Pengadaan):** `sirup.lkpp.go.id` - Untuk melihat perencanaan pengadaan dari awal.
-  * **Sumber Data Perusahaan & Keuangan:**
-    * **OSS (Online Single Submission):** `oss.go.id` - Mengecek legalitas, pemegang saham, dan pengurus perusahaan.
-    * **Data Indonesia:** `data.id` - Portal data terbuka pemerintah.
-  * **Sumber Pendukung:**
-    * **Laporan Keuangan Perusahaan Publik:** Untuk membandingkan kinerja.
-    * **Google Maps/Street View:** Memverifikasi lokasi proyek fisik.
-    * **Media Sosial & Berita Online:** Melacak reputasi dan koneksi perusahaan.
-
-5. **Tinjau Pelaksanaan Proyek**: Untuk proyek konstruksi, Anda dapat menggunakan teknik OSINT untuk memverifikasi realisasi di lapangan .
-
-   - **Google Maps/Street View**: Memeriksa kemajuan fisik proyek.
-   - **Berita Online**: Melacak apakah ada pemberitaan tentang masalah pada proyek, seperti jembatan yang runtuh tak lama setelah dibangun.
-   - **Putusan Pengadilan**: Mengecek melalui website Mahkamah Agung apakah perusahaan pernah terlibat dalam perkara pidana atau perdata.
-6. **Analisis Koneksi & Jejak Kepemilikan (Mencari "Benyamin")**
-   **Ini inti dari investigasi.**
-
+   * **Telusuri data orang penting** Cari tahu orang-orang yang berada di perusahaan (pemilik/pengurus/keluarga), melalui situs perusahaan, alamat email yang terhubung, linKedIn, dan semua platform social media
    * **Conflict of Interest:** Bandingkan nama pengurus perusahaan pemenang dengan nama pejabat di instansi yang mengadakan. Gunakan mesin pencari untuk mencocokkan.
-   * **Perusahaan "Benyamin":** Apakah perusahaan pemenang adalah UKM baru dengan modal kecil yang memenangkan proyek miliaran? Cek di OSS.
+   * **Keuangan Perusahaan "Benyamin":** Apakah perusahaan pemenang adalah UKM baru dengan modal kecil yang memenangkan proyek miliaran? Cek di OSS.
    * **Kluster Perusahaan:** Apakah satu orang atau alamat yang sama memiliki banyak perusahaan yang sering ikut lelang yang sama? (Gunakan fitur pencarian lanjutan di OSS/SIRUP).
    * **Visualisasi Koneksi:** Gunakan diagram sederhana untuk menunjukkan hubungan antara Pejabat -> Perusahaan A -> Perusahaan B.
      **Analisis dan Pelaporan**: Kumpulkan semua bukti dan lakukan analisis mendalam untuk mengidentifikasi kemungkinan pelanggaran. Pada tahap ini, laporan audit dari **Badan Pemeriksa Keuangan (BPK)** dapat menjadi sumber verifikasi yang penting .
-7. 
 
 ### 💡 Contoh Kasus: Investigasi Tirai DPR RI
 
@@ -79,6 +97,10 @@ Pada 2022, ICW menggunakan OSINT untuk menginvestigasi pengadaan tirai untuk ked
 - **Identifikasi Risiko**: Proyek ini teridentifikasi memiliki **potensi risiko kecurangan yang tinggi** di platform opentender.net .
 - **Analisis Proses**: Meski ada 49 peserta yang mendaftar, hanya **3 perusahaan** yang memasukkan penawaran. Dari ketiganya, dua perusahaan dinyatakan tidak lulus kualifikasi .
 - **Temuan**: Investigasi lebih lanjut menunjukkan bahwa hanya satu perusahaan yang memenuhi kualifikasi yang diminta. Hal ini menimbulkan kecurigaan kuat bahwa proses tender hanyalah formalitas dan kompetisi bisnis tidak berlangsung sehat . Kasus ini menunjukkan bagaimana data terbuka dapat mengungkap kejanggalan dalam proses pengadaan.
+
+### 💡 Contoh Kasus: Pengadaan Senjata Penanganan Demonstran
+
+lihat video berikut yang berjudul [Janggal Pengadaan Senjata Polri, Ada Driver Ojol Jadi Pemenang Tender](https://www.youtube.com/watch?v=Yys81jvvEio)
 
 ### ⚠️ Tantangan dan Kendala yang Dihadapi
 
