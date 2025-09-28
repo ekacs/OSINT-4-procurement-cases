@@ -44,7 +44,7 @@ Mampu menelusuri data, dokumen, dan sumber informasi secara mendalam, termasuk w
   Mampu menggunakan alat bantu digital untuk riset, verifikasi data, dan keamanan informasi.
 - Kreativitas dalam memilih angle liputan
   Liputan investigasi bukan hanya soal data, tapi juga bagaimana menyajikan “story behind the news” secara menarik dan berdampak.
-- Teknik dan aplikasi yang biasa saya gunakan
+- Teknik dan aplikasi yang biasa saya gunakan, cekidot
 
 ## 🛠️ Langkah-Langkah Praktis Investigasi OSINT untuk Pengadaan
 
