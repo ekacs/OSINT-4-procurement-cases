@@ -44,7 +44,7 @@ Mampu menelusuri data, dokumen, dan sumber informasi secara mendalam, termasuk w
   Mampu menggunakan alat bantu digital untuk riset, verifikasi data, dan keamanan informasi.
 - Kreativitas dalam memilih angle liputan
   Liputan investigasi bukan hanya soal data, tapi juga bagaimana menyajikan “story behind the news” secara menarik dan berdampak.
-- Teknik dan aplikasi yang biasa saya gunakan, cekidot
+- Teknik dan aplikasi yang biasa saya gunakan, [cekidot](OSINT-tools-(frequently%20used)-PoC.md)
 
 ## 🛠️ Langkah-Langkah Praktis Investigasi OSINT untuk Pengadaan
 
@@ -53,7 +53,7 @@ Mampu menelusuri data, dokumen, dan sumber informasi secara mendalam, termasuk w
    situs PBJ Pemerintah (**spse.inaproc**), e-commerce Pemerintah (**katalog.inaproc**) dan/atau pengadaan di BUMN,
 2. **Identifikasi Pengadaan Pemerintah yang berisiko terjadi fraud**:
    Langkah pertama adalah memilih pengadaan yang akan dipantau,dari sumber informasi primer terbuka
-   [(cek **Github saya**)](github%20OSINT%20source%204%20national%20eprocurement.md)
+   [(cekidot **sumber yang sering saya kunjungi**)](github%20OSINT%20source%204%20national%20eprocurement.md)
 
    Anda dapat menggunakan platform seperti **opentender.net** yang memberikan peringkat risiko (tinggi, menengah, rendah) pada setiap prosedur pengadaan berdasarkan metode analisis PFA(*Potential Fraud Analysis*) dari Indonesia Corruption Watch (ICW). Namun saat basis data **opentender.net** tidak update (data terbaru biasanya setahun sebelumnya dan hanya khusus tender saja) sehingga perlu mengetahui cara mengidentifikasi pengadaan bermasalah secara mandiri.
    Berikut 7 redflags pengadaan yang perlu dicermati:([metode PFA](https://www.opentender.net/method))
