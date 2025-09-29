@@ -4,8 +4,8 @@
 
 - [Social Media Search](https://www.social-searcher.com/)
   
-  [reverse image search](https://pimeyes.com/en)
-  [googl account hunter](https://github.com/mxrch/GHunt)
+- [reverse image search](https://pimeyes.com/en)
+- [googl account hunter](https://github.com/mxrch/GHunt)
   [OSINT framework](https://osintframework.com/)
   [Intelligence X search engine](https://intelx.io/)
   [theHarvester (mail extractor)](https://github.com/laramies/theHarvester)
