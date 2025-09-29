@@ -1,7 +1,9 @@
 # OSINT Tools (Frequently Used) & PoC Videos
 
-  [Profile Search by Email](https://com.lullar.com/)
-  [Social Media Search](https://www.social-searcher.com/)
+  - [Profile Search by Email](https://com.lullar.com/)
+
+- [Social Media Search](https://www.social-searcher.com/)
+  
   [reverse image search](https://pimeyes.com/en)
   [googl account hunter](https://github.com/mxrch/GHunt)
   [OSINT framework](https://osintframework.com/)
