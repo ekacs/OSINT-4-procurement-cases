@@ -34,6 +34,21 @@
 
 ### Video/Artikel menarik untuk dibaca/dilihat
 
+<<<<<<< HEAD
+[Kumpulan artikel untuk TABK dari anak Djp](http://eoditor.com/2022/08/studi-kasus-sedot-data-sirup-sistem-rencana-umum-pengadaan-lkpp/)
+=======
+[Pengenalan Aplikasi Monitoring Evaluasi AMEL LKPP](https://www.youtube.com/watch?v=isLZZCIn6w0)
+[Promoting Open Source Intelligence Techniques to Investigate Corruption in Southeast Asia](https://www.unodc.org/roseap/en/what-we-do/anti-corruption/topics/2021/01-open-source-intelligence-techniques.html)
+
+[Peran Open Source Intelligence (OSINT) Dalam Investigasi Fraud Pada Pengadaan Barang dan Jasa = Role of Open Source Intelligence (OSINT) in Fraud Investigation in The Procurement of Goods and Services](https://lib.ui.ac.id/detail?id=9999920517868&lokasi=lokal)
+
+[13th Asia-Pacific Regional Meeting: Corruption in Public Procurement](https://uncaccoalition.org/13th-asia-pacific-regional-meeting-corruption-in-public-procurement/) 
+
+[6 steps for civic monitors to identify fraud risks in procurement in Indonesia](https://www.open-contracting.org/2025/02/20/6-steps-for-civic-monitors-to-identify-fraud-risks-in-procurement-in-indonesia/)
+
+[Case study: Investigating suspected fraud with opentender.net](https://www.open-contracting.org/2025/03/11/case-study-investigating-suspected-fraud-with-opentender-net/) 
+>>>>>>> fd1ccfd26b37bbf337e2dc5c855d3c0ffcee38af
+
 [62 Menit Operasi Pembakaran Halte Sarinah | Buka Mata](https://youtu.be/Pfjjn0dk_iA?si=rjGbSVAwlTn6Q96S)
 
 [Di Balik Aksi Demonstrasi: EKSKLUSIF, Saksi Mata Pembakaran Halte Sarinah (Part 4) | Mata Najwa | cek menit 10.36](https://youtu.be/-WoD6cF9bFg?si=1q7YhtjokknHcOfw)
