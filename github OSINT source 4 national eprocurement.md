@@ -67,9 +67,9 @@ Berikut daftar situs yang Anda berikan beserta data yang dapat diperoleh untuk k
 | Situs | Deskripsi & Data yang Dapat Diperoleh |
 | :--- | :--- |
 | **Situs Pengadaan & Barang** | |
-| **[lpse.kemenkeu.go.id](https://lpse.kemenkeu.go.id)** | Informasi tender: Pengumuman, hasil lelang, HPS (Harga Perkiraan Sendiri), dokumen lelang, dan peserta tender[citation:5]. |
+| **[lpse.kemenkeu.go.id](https://lpse.kemenkeu.go.id)**, [Sistem Pengadaan Secara Elektronik](https://inaproc.id/) | SPSE adalah platform resmi LKPP (Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah) untuk melaksanakan proses pengadaan barang/jasa pemerintah secara elektronik. Situs ini menjadi sumber data utama untuk investigasi OSINT di sektor pengadaan Indonesia, Informasi tender: Pengumuman, hasil lelang, HPS (Harga Perkiraan Sendiri), dokumen lelang, dan peserta tender. |
 | **[sirup.lkpp.go.id](https://sirup.lkpp.go.id)** | Rencana Umum Pengadaan (RUP): Paket pengadaan tahun berjalan & mendatang, nilai pagu anggaran, serta metode penawarannya[citation:5]. |
-| **[sikap.lkpp.go.id](https://sikap.lkpp.go.id)** | Data Penyedia Barang/Jasa: Kualifikasi, klasifikasi bidang usaha, dan riwayat kinerja para penyedia dalam pelaksanaan kontrak[citation:5]. |
+| **[sikap.lkpp.go.id](https://sikap.lkpp.go.id)** | Data Penyedia Barang/Jasa: Kualifikasi, klasifikasi bidang usaha, dan riwayat kinerja para penyedia dalam pelaksanaan kontrak. |
 | **[daftar-hitam.inaproc.id](https://daftar-hitam.inaproc.id)** | Daftar Hitam: Penyedia barang/jasa yang dikenai sanksi dan dilarang mengikuti tender dalam periode tertentu[citation:5]. |
 | **[katalog.inaproc.id](https://katalog.inaproc.id)** | Katalog Elektronik: Daftar dan harga barang/jasa standar yang dapat dibeli secara langsung melalui e-purchasing[citation:5]. |
 | **[tender.pengadaan.com](https://tender.pengadaan.com)** | Informasi Tender: Sumber informasi tambahan untuk melihat pengumuman tender dari berbagai instansi. |
