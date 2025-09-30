@@ -34,12 +34,8 @@
 
 ### Video/Artikel menarik untuk dibaca/dilihat
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 [Kumpulan artikel untuk TABK dari anak Djp](http://eoditor.com/2022/08/studi-kasus-sedot-data-sirup-sistem-rencana-umum-pengadaan-lkpp/)
-=======
-=======
->>>>>>> fd1ccfd26b37bbf337e2dc5c855d3c0ffcee38af
+
 [Pengenalan Aplikasi Monitoring Evaluasi AMEL LKPP](https://www.youtube.com/watch?v=isLZZCIn6w0)
 [Promoting Open Source Intelligence Techniques to Investigate Corruption in Southeast Asia](https://www.unodc.org/roseap/en/what-we-do/anti-corruption/topics/2021/01-open-source-intelligence-techniques.html)
 
@@ -50,14 +46,8 @@
 [6 steps for civic monitors to identify fraud risks in procurement in Indonesia](https://www.open-contracting.org/2025/02/20/6-steps-for-civic-monitors-to-identify-fraud-risks-in-procurement-in-indonesia/)
 
 [Case study: Investigating suspected fraud with opentender.net](https://www.open-contracting.org/2025/03/11/case-study-investigating-suspected-fraud-with-opentender-net/) 
-<<<<<<< HEAD
->>>>>>> fd1ccfd26b37bbf337e2dc5c855d3c0ffcee38af
-=======
->>>>>>> fd1ccfd26b37bbf337e2dc5c855d3c0ffcee38af
 
 [62 Menit Operasi Pembakaran Halte Sarinah | Buka Mata](https://youtu.be/Pfjjn0dk_iA?si=rjGbSVAwlTn6Q96S)
-
-[Di Balik Aksi Demonstrasi: EKSKLUSIF, Saksi Mata Pembakaran Halte Sarinah (Part 4) | Mata Najwa | cek menit 10.36](https://youtu.be/-WoD6cF9bFg?si=1q7YhtjokknHcOfw)
 
 [Di Balik Aksi Demonstrasi: EKSKLUSIF, Saksi Mata Pembakaran Halte Sarinah (Part 4) | Mata Najwa | cek menit 10.36](https://youtu.be/-WoD6cF9bFg?si=1q7YhtjokknHcOfw)
 
