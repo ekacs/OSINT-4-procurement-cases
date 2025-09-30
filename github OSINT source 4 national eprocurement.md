@@ -50,6 +50,7 @@ https://bantuan.inaproc.id/hc/id-id/categories/9038110434703-Produk-Hukum
 https://bantuan.inaproc.id/hc/id-id/articles/10157833668111-Syarat-dan-Ketentuan-Katalog-Elektronik-Versi-6-Versi-1-4 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ### Artikel yang penting untuk dibaca
 
 -[Studi Kasus: Sedot data SIRUP (Sistem Rencana Umum Pengadaan) LKPP](http://eoditor.com/2022/08/studi-kasus-sedot-data-sirup-sistem-rencana-umum-pengadaan-lkpp/)
@@ -86,6 +87,8 @@ https://bantuan.inaproc.id/hc/id-id/articles/10157833668111-Syarat-dan-Ketentuan
 - [Step By Step : STUDI KASUS AUDIT GENERAL LEDGER DENGAN MICROSOFT ACCESS 2007](http://eoditor.com/2010/11/step-by-step-studi-kasus-audit-general-ledger/)
 - [Step By Step: Studi Kasus Audit Gaji dengan Access 2007](http://eoditor.com/2010/11/step-by-step-studi-kasus-audit-gaji/)
 =======
+=======
+>>>>>>> fd1ccfd26b37bbf337e2dc5c855d3c0ffcee38af
 
 [indonesia leaks](https://indonesialeaks.id/)
 https://securitylab.amnesty.org/latest/2024/05/a-web-of-surveillance/
@@ -133,6 +136,9 @@ Semoga informasi ini bermanfaat untuk investigasi Anda. Jika ada jenis data tert
 
 
 
+<<<<<<< HEAD
+>>>>>>> fd1ccfd26b37bbf337e2dc5c855d3c0ffcee38af
+=======
 >>>>>>> fd1ccfd26b37bbf337e2dc5c855d3c0ffcee38af
 
 
