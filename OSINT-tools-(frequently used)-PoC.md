@@ -3,7 +3,8 @@
   - [Profile Search by Email](https://com.lullar.com/)
 
 - [Social Media Search](https://www.social-searcher.com/)
-  
+  - [Information gathering & OSINT reconnaissance tool for phone numbers](https://github.com/ExpertAnonymous/PhoneInfoga)
+  [Accurately Locate Smartphones using Social Engineering](https://github.com/thewhiteh4t/seeker)
 - [reverse image search](https://pimeyes.com/en)
 - [googl account hunter](https://github.com/mxrch/GHunt)
 - [pencarian data orang indonesia](https://selidiki.id)**BANNED**
@@ -24,6 +25,7 @@
 - [youtube downloader](https://www.yt1d.app/)
 - [Social-Media-OSINT-Tools-Collection](https://github.com/osintambition/Social-Media-OSINT-Tools-Collection)
 - [Social Media Intelligence (SOCMINT)](https://osint.link/social-media-intelligence-socmint/)
+- [The Social-Engineer Toolkit](https://github.com/trustedsec/social-engineer-toolkit)
 
 - [All in one Information Gathering Tools](https://osint.sh/)
 - [FOCA (Fingerprinting Organizations with Collected Archives)](https://github.com/ElevenPaths/FOCA)
